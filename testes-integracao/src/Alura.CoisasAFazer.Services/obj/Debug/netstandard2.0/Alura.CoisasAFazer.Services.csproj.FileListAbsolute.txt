@@ -1,0 +1,14 @@
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.deps.json
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csprojAssemblyReference.cache
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CoreCompileInputs.cache
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfoInputs.cache
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfo.cs
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CopyComplete
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb

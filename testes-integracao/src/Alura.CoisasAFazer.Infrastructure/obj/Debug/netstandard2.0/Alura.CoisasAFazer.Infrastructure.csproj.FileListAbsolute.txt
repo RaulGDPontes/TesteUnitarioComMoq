@@ -1,0 +1,12 @@
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.deps.json
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.AssemblyInfo.cs
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.csproj.CopyComplete
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb

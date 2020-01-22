@@ -1,0 +1,6 @@
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.WebApp\obj\Debug\netcoreapp2.2\Alura.CoisasAFazer.WebApp.csprojAssemblyReference.cache
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.WebApp\obj\Debug\netcoreapp2.2\Alura.CoisasAFazer.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.WebApp\obj\Debug\netcoreapp2.2\Alura.CoisasAFazer.WebApp.RazorAssemblyInfo.cache
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.WebApp\obj\Debug\netcoreapp2.2\Alura.CoisasAFazer.WebApp.RazorAssemblyInfo.cs
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.WebApp\obj\Debug\netcoreapp2.2\Alura.CoisasAFazer.WebApp.AssemblyInfoInputs.cache
+C:\Users\ms327\Desktop\Alura\TDD  - Moq\testes-integracao\src\Alura.CoisasAFazer.WebApp\obj\Debug\netcoreapp2.2\Alura.CoisasAFazer.WebApp.AssemblyInfo.cs
